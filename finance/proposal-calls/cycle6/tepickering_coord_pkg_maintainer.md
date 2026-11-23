@@ -18,7 +18,7 @@ Currency: USD $
 
 - Salary: $6240 (based on ~1 hour/week on average for 52 weeks at current contracted rate of $120/hour)
 
-Given the maintenance backlog and popularity of `astroplan` and the effort required to date since becoming a maintainer, I consider this ~1 hour/week level of effort to be the minimum proposal. Please note that we would happily accept a higher amount in return for a higher level of effort.
+Given the maintenance backlog and popularity of `astroplan` and the effort required to date for `astroplan` maintenance alone, I consider this ~1 hour/week level of effort to be the minimum proposal. Please note that we would happily accept a higher amount in return for a higher level of effort.
 
 ### Period of Performance
 
